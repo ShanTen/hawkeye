@@ -1,0 +1,10 @@
+To Write:
+
+1. Re-write post request handler to use user data [[done]]
+2. Save to google drive [[done]]
+3. Send message using twillo [[ditch]]
+4. Python UI Client (using webcam) to upload images to the server. [[done]]
+5. Second server to abuse pywhatkit instead of twilio [[done]]
+6. Write GPS service [[hack]]
+7. Write public url service for google drive [[done]]
+8. Move GPS location data and uuid to client [[done]]
